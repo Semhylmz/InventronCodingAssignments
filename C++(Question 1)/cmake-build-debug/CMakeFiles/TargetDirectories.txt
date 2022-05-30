@@ -1,0 +1,3 @@
+C:/Users/Semh-/Desktop/InventronCodingAssignments/C++(Question 1)/cmake-build-debug/CMakeFiles/C___Question_1_.dir
+C:/Users/Semh-/Desktop/InventronCodingAssignments/C++(Question 1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Semh-/Desktop/InventronCodingAssignments/C++(Question 1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
